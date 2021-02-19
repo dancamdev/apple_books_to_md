@@ -9,3 +9,7 @@ It fetches all the highlights and notes from your Apple Books SQLite files and c
 ## What's the difference with the [original script](https://github.com/fabianmu/ibooks2markdown)
 
 This is a slightly modified version that drops the Date and the note context and groups the notes by chapter.
+
+## How to use
+
+`php ./book_notes_to_md.php`
